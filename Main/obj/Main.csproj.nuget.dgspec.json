@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\main\\Main.csproj": {}
+    "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\Main\\Main.csproj": {}
   },
   "projects": {
-    "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\main\\Main.csproj": {
+    "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\Main\\Main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\main\\Main.csproj",
+        "projectUniqueName": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\Main\\Main.csproj",
         "projectName": "Main",
-        "projectPath": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\main\\Main.csproj",
+        "projectPath": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\Main\\Main.csproj",
         "packagesPath": "C:\\Users\\landi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\main\\obj\\",
+        "outputPath": "C:\\Users\\landi\\OneDrive\\Documents\\Projects\\Practices\\Git Practice\\WorkflowTest\\Main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\landi\\AppData\\Roaming\\NuGet\\NuGet.Config"

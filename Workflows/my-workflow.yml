@@ -1,0 +1,11 @@
+name: First Workflow
+on: [push]
+jobs:
+  run-project:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build solution
+      run: dotnet build
+    - name: Run main project
+      run: dotnet run --project Main/Main.csproj
